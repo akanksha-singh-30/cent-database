@@ -3,7 +3,7 @@ Project - CSCI 5408 - Data Management, Warhsng Analytics
 
 Relational Database management system built using Java. 
 
-# Features - 
+# Features 
  RDBMS Metadata handling, 
  Creation of database and Tables, 
  DDL, DML, Query parsing and implementation, 
@@ -12,7 +12,7 @@ Relational Database management system built using Java.
  ERD generation, 
  Schema and data export
  
-# Contributors - 
+# Contributors 
  Akanksha Singh 
  Adesh Nalpet Adimurthy  
  Mukund Sharma 
